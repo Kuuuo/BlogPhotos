@@ -1,4 +1,2 @@
-BlogBackup
-==========
-
-博客备份。
+# BlogPhotos
+博客照片
